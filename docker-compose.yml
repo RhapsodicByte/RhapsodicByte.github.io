@@ -1,0 +1,7 @@
+services:
+  cvless:
+    image: bardamu23/rhapsodicbyte/jekyll-serve
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/site
