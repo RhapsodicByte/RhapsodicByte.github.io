@@ -1,10 +1,10 @@
 # site settings
 
 title: RhapsodicByte
-description: Welcome to my portfolio website! Happy browsing :)
+description: Bertrand Bwashi's Portfolio
 taglong: Thank you for visiting!
 tagshort: Portfolio
-url: https://cvless.netlify.app
+url: https://rhapsodicbytes.com
 baseurl: ""
 permalink: pretty
 repo: https://github.com/RhapsodicByte/RhapsodicByte.github.io
